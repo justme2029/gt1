@@ -10,7 +10,7 @@
   "SYMBOL": "GT",
   "MAX_SUPPLY": 9850,
   "WEI_COST": 10000000000000,
-  "DISPLAY_COST": 1,
+  "DISPLAY_COST": 0.00001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/goldenticket-1q47hpybx8",
