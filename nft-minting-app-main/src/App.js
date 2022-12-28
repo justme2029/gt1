@@ -111,7 +111,7 @@ function App() {
     },
     NFT_NAME: "",
     SYMBOL: "",
-    MAX_SUPPLY: 1,
+    MAX_SUPPLY: 9850,
     WEI_COST: 0,
     DISPLAY_COST: 0,
     GAS_LIMIT: 0,
