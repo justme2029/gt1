@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x76e385fbD0cd7e962da9AcF4DB6bdD04eF5A3414",
+  "SCAN_LINK": "https://goerli.etherscan.io/tx/0xb2d7ec765c484c8306d11f241e8e9ef5e200449ed846d7d1111d4aa10bd8f4aa",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Golden Ticket",
+  "SYMBOL": "GT",
+  "MAX_SUPPLY": 9850,
+  "WEI_COST": 10000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/goldenticket-1q47hpybx8",
+  "SHOW_BACKGROUND": true
+}
