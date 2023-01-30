@@ -426,8 +426,8 @@ function App() {
             }}
           >
             We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
-            gas limit. "We recommend that you visit our roadmap before making a purchase."
+            successfully mint your NFT. It's advised not to decrease the gas limit. 
+             It's suggested to review our roadmap prior to making a purchase.
           </s.TextDescription>
         </s.Container>
       </s.Container>
