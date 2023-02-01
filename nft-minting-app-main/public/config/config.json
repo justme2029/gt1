@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x66b7fa08b73a45ce4ad71b004f51e570f90450aa",
   "SCAN_LINK": "https://etherscan.io/tx/0x5a2c213542d6b8f28226991e0d4b9ecf93f1bec6e38b07d921f381c54853d154",
   "NETWORK": {
-    "NAME": "Ethereum Mainnet Network",
+    "NAME": "Ethereum Mainnet",
     "SYMBOL": "ETH",
     "ID": 1
   },
