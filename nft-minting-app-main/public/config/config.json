@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x76e385fbD0cd7e962da9AcF4DB6bdD04eF5A3414",
-  "SCAN_LINK": "https://goerli.etherscan.io/tx/0xb2d7ec765c484c8306d11f241e8e9ef5e200449ed846d7d1111d4aa10bd8f4aa",
+  "CONTRACT_ADDRESS": "0x66b7fa08b73a45ce4ad71b004f51e570f90450aa",
+  "SCAN_LINK": "https://etherscan.io/tx/0x5a2c213542d6b8f28226991e0d4b9ecf93f1bec6e38b07d921f381c54853d154",
   "NETWORK": {
-    "NAME": "Goerli",
+    "NAME": "Ethereum Mainnet Network",
     "SYMBOL": "ETH",
-    "ID": 5
+    "ID": 1
   },
   "NFT_NAME": "Golden Ticket",
   "SYMBOL": "GT",
   "MAX_SUPPLY": 9850,
-  "WEI_COST": 10000000000000,
-  "DISPLAY_COST": 0.00001,
+  "WEI_COST": 420000000000000000,
+  "DISPLAY_COST": 0.42,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/goldenticket-1q47hpybx8",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nftspace23",
   "SHOW_BACKGROUND": true
 }
