@@ -1,4 +1,7 @@
-
 exports.handler = async (event) => {
-  // Your function logic goes here
+  console.log("Function called!");
+  return {
+    statusCode: 200,
+    body: "Function executed successfully",
+  };
 };
